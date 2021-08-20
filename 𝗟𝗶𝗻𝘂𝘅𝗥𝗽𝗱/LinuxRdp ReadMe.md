@@ -16,7 +16,7 @@
 - nano start_miner.sh
 
 # --Edit Your Wallet Details--
-- ./PhoenixMiner -pool ssl://us1-etc.ethermine.org:5555 -pool2 ssl://eu1-etc.ethermine.org:5555 -wal <your_wallet>.<your worker_id>
+- ./PhoenixMiner -pool ssl://us1-etc.ethermine.org:5555 -pool2 ssl://eu1-etc.ethermine.org:5555 -wal <your_wallet>.<your_worker_id>
 
 # --Install gnome--
 - cd rdp/PhoenixMiner_5.6d_Linux
