@@ -25,7 +25,8 @@
 -  Copy Tcp:
 -  Copy User:
 -  Copy pass:
+-  ----------
 -  Go your pc remote Desktop Connection Software
--  --------------
 -  Paset Your Tcp 
 -  Login with User And Pass
+-  ----------
