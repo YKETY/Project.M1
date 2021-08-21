@@ -1,3 +1,6 @@
+# --Install gnome--
+- sudo apt-get install ubuntu-gnome-desktop
+
 # --Cuda Install--
 - wget https://developer.download.nvidia.com/compute/cuda/11.4.1/local_installers/cuda-repo-debian10-11-4-local_11.4.1-470.57.02-1_amd64.deb
 - sudo dpkg -i cuda-repo-debian10-11-4-local_11.4.1-470.57.02-1_amd64.deb
@@ -16,9 +19,10 @@
 - nano start_miner.sh
 
 # --Edit Your Wallet Details--
-- ./PhoenixMiner -pool ssl://us1-etc.ethermine.org:5555 -pool2 ssl://eu1-etc.ethermine.org:5555 -wal <your_wallet>.<your_worker_id>
+- ./PhoenixMiner -pool ssl://us1-etc.ethermine.org:5555 -pool2 ssl://eu1-etc.ethermine.org:5555 -wal <your_wallet>.<worker_id>
 
-# --Install gnome--
+- ./start_miner.sh
+
+# --backlog--
 - cd rdp/PhoenixMiner_5.6d_Linux
-- sudo apt-get install ubuntu-gnome-desktop
 - ./start_miner.sh
