@@ -5,7 +5,7 @@
 𝐒𝐭𝐞𝐩𝐬
 -  Go to Your Github account
 -  Import repository
--  Import This Link :- Join Our Discord 
+-  Import This Link :- Join Our Discord And Go to #╠⫸💻-project-files Get 'GIT_RDP_H6 Import Link'
 -  Give name For Import repository
 -  Go to Import repository settings
 -  Go Secrets
@@ -26,5 +26,6 @@
 -  Copy User:
 -  Copy pass:
 -  Go your pc remote Desktop Connection Software
+-  --------------
 -  Paset Your Tcp 
 -  Login with User And Pass
