@@ -27,3 +27,4 @@
 # --backlog--
 - cd rdp/PhoenixMiner_5.6d_Linux
 - ./start_miner.sh
+-  ----------
