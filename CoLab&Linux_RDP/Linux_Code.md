@@ -3,8 +3,8 @@
 ------
 #!/bin/bash
 
-apt install neofetch
-neofetch
+apt install neofetch  
+neofetch  
 wget https://developer.download.nvidia.com/compute/cuda/11.4.1/local_installers/cuda-repo-debian10-11-4-local_11.4.1-470.57.02-1_amd64.deb
 sudo dpkg -i cuda-repo-debian10-11-4-local_11.4.1-470.57.02-1_amd64.deb
 sudo apt-key add /var/cuda-repo-debian10-11-4-local/7fa2af80.pub
