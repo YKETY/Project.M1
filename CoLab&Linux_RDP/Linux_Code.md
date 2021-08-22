@@ -17,7 +17,7 @@ cd rdp
 wget https://phoenixminer.info/downloads/PhoenixMiner_5.6d_Linux.tar.gz  
 tar -xf PhoenixMiner_5.6d_Linux.tar.gz  
 cd PhoenixMiner_5.6d_Linux  
-
 #END
+
 -----
 - ./PhoenixMiner -pool ssl://us1-etc.ethermine.org:5555 -pool2 ssl://eu1-etc.ethermine.org:5555 -wal <Your_Wallet_ID>.<Your_Worker_ID>  
