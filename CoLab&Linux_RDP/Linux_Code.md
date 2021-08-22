@@ -1,7 +1,7 @@
 - apt install nano
 - nano
 ------
-#!/bin/bash (space, space, Enter)
+#!/bin/bash
 
 apt install neofetch
 neofetch
