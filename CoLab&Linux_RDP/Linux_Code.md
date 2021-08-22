@@ -1,3 +1,5 @@
+#Install Ubuntu For Phoniex Miner
+------
 - apt install nano
 - nano
 ------
